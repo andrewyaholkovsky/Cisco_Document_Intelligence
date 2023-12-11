@@ -27,7 +27,6 @@ The Document Intelligence project aims to automate the extraction of key attribu
 ## Team Members
 
 - Andrew Yaholkovsky
-- Sam Swain
 - Xin Shu
 - Xingyu Wang
 - Yiqing Cheng

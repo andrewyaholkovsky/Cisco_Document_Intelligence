@@ -8,9 +8,8 @@ The Document Intelligence project aims to automate the extraction of key attribu
 ## Core Topics Explored
 
 - Natural Language Processing (NLP)
-- Computer Vision
-- Named Entity Recognition (NER)
-- Generative AI
+- Computer Vision (OCR)
+- Generative AI (OpenAI)
 
 ## Data Collection
 
@@ -20,9 +19,9 @@ The Document Intelligence project aims to automate the extraction of key attribu
 ## Technology Stack
 
 - Python
-- Tensorflow/Keras
-- OpenCV
-- spaCy or other NLP Libraries
+- OpenAI API
+- LangChain
+- spaCy + other NLP Libraries (as needed)
 
 ## Team Members
 

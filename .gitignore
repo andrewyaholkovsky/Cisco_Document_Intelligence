@@ -1,0 +1,8 @@
+02_Deliverables/gpt_streamlit/.streamlit/*
+02_Deliverables/gpt_streamlit/.streamlit/secrets
+02_Deliverables/gpt_streamlit/data/tmp/*
+02_Deliverables/gpt_streamlit/data/vector_store/*
+02_Deliverables/gpt_streamlit/.venv
+02_Deliverables/gpt_streamlit/secrets.toml
+02_Deliverables/gpt_streamlit/past_code
+02_Deliverables/gpt_streamlit/test_rag_engine_cur.py
